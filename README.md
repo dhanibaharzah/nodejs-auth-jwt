@@ -1,5 +1,5 @@
 # nodejs-auth-jwt
-Authentication system using nodejs with mongdb
+Authentication system using nodejs with mongodb
 
 # how to start project
 ```sh
